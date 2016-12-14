@@ -1,0 +1,13 @@
+aiohttp==1.1.6
+async-timeout==1.1.0
+brittle-wit==0.0.2
+chardet==2.3.0
+jmespath==0.9.0
+multidict==2.1.4
+numpy==1.11.2
+pandas==0.19.1
+python-dateutil==2.6.0
+pytz==2016.10
+six==1.10.0
+vaquero==0.0.2
+yarl==0.8.1
