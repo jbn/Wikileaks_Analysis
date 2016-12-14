@@ -2,7 +2,7 @@
 
 This repository allows you to replicate my cursory analysis of [@wikileaks](http://twitter.com/wikileaks) over the 2016 election cycle.
 
-See the medium post: [Who Watches Wikileaks?]()
+See the medium post: [Who Watches Wikileaks?](https://medium.com/@generativist/who-watches-wikileaks-982c50fab0f7#.3kkef32l0)
 
 ## Installation
 
